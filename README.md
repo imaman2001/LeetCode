@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/imaman2001/LeetCode/tree/master/0890-lemonade-change) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -62,8 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/imaman2001/LeetCode/tree/master/0273-integer-to-english-words) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/imaman2001/LeetCode/tree/master/0273-integer-to-english-words) |
+## Sorting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
