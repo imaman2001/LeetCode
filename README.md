@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/imaman2001/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/imaman2001/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Matrix
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/imaman2001/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1511-count-number-of-teams](https://github.com/imaman2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
