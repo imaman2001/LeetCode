@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imaman2001/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0086-partition-list](https://github.com/imaman2001/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imaman2001/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/imaman2001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/imaman2001/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/imaman2001/LeetCode/tree/master/0086-partition-list) |
 ## Union Find
 |  |
 | ------- |
