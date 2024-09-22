@@ -21,13 +21,27 @@ public:
     }
 
     bool isPalindrome(ListNode* head) {
-        string str = "";
-        ListNode* temp = head;
-
-        while(temp != NULL){
-            str += temp->val;
-            temp = temp->next;
+        vector<int>s;
+        while(head){
+            s.push_back(head->val);
+            head = head->next;
         }
-    return check(str);
+
+        int left = 0 , right = s.size()-1;
+        while(left < right && s[left] == s[right]){
+            left++;
+            right--;
+        }
+
+        return left >= right;
+
+    //     string str = "";
+    //     ListNode* temp = head;
+
+    //     while(temp != NULL){
+    //         str += temp->val;
+    //         temp = temp->next;
+    //     }
+    // return check(str);
     }
 };
