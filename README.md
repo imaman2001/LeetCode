@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/imaman2001/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/imaman2001/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/imaman2001/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/imaman2001/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/imaman2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/imaman2001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imaman2001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/imaman2001/LeetCode/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/imaman2001/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/imaman2001/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/imaman2001/LeetCode/tree/master/0476-number-complement) |
 ## Depth-First Search
