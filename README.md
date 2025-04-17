@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/imaman2001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/imaman2001/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Design
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/imaman2001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/imaman2001/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/imaman2001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/imaman2001/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Data Stream
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/imaman2001/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
