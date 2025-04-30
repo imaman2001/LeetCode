@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/imaman2001/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/imaman2001/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/imaman2001/LeetCode/tree/master/0037-sudoku-solver) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/imaman2001/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/imaman2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/imaman2001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imaman2001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
