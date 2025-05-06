@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Monotonic Queue
