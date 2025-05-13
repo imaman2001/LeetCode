@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/imaman2001/LeetCode/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/imaman2001/LeetCode/tree/master/0182-duplicate-emails) |
 ## Topological Sort
 |  |
 | ------- |
