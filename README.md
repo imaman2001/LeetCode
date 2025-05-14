@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/imaman2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1706-min-cost-to-connect-all-points](https://github.com/imaman2001/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/imaman2001/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/imaman2001/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/imaman2001/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/imaman2001/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1706-min-cost-to-connect-all-points](https://github.com/imaman2001/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/imaman2001/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/imaman2001/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1706-min-cost-to-connect-all-points](https://github.com/imaman2001/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/imaman2001/LeetCode/tree/master/0014-longest-common-prefix) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/imaman2001/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
