@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/imaman2001/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/imaman2001/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/imaman2001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/imaman2001/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/imaman2001/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/imaman2001/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/imaman2001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/imaman2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imaman2001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/imaman2001/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/imaman2001/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imaman2001/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/imaman2001/LeetCode/tree/master/1250-longest-common-subsequence) |
