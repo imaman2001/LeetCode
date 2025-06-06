@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/imaman2001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/imaman2001/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/imaman2001/LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/imaman2001/LeetCode/tree/master/0890-lemonade-change) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/imaman2001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0605-can-place-flowers](https://github.com/imaman2001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/imaman2001/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/imaman2001/LeetCode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/imaman2001/LeetCode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/imaman2001/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/imaman2001/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imaman2001/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imaman2001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imaman2001/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/imaman2001/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/imaman2001/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imaman2001/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/imaman2001/LeetCode/tree/master/1013-fibonacci-number) |
