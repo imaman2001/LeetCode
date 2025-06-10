@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/imaman2001/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/imaman2001/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2486-most-frequent-even-element](https://github.com/imaman2001/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imaman2001/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/imaman2001/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2486-most-frequent-even-element](https://github.com/imaman2001/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imaman2001/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imaman2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/imaman2001/LeetCode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2486-most-frequent-even-element](https://github.com/imaman2001/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imaman2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
