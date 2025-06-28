@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/imaman2001/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/imaman2001/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imaman2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/imaman2001/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2486-most-frequent-even-element](https://github.com/imaman2001/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imaman2001/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imaman2001/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/imaman2001/LeetCode/tree/master/1127-last-stone-weight) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imaman2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imaman2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2486-most-frequent-even-element](https://github.com/imaman2001/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imaman2001/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imaman2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imaman2001/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3321-type-of-triangle](https://github.com/imaman2001/LeetCode/tree/master/3321-type-of-triangle) |
