@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/imaman2001/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/imaman2001/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3321-type-of-triangle](https://github.com/imaman2001/LeetCode/tree/master/3321-type-of-triangle) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imaman2001/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/imaman2001/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/imaman2001/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/imaman2001/LeetCode/tree/master/1013-fibonacci-number) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imaman2001/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/imaman2001/LeetCode/tree/master/0476-number-complement) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imaman2001/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
