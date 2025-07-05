@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1127-last-stone-weight](https://github.com/imaman2001/LeetCode/tree/master/1127-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imaman2001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/imaman2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imaman2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/imaman2001/LeetCode/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/imaman2001/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imaman2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
