@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1127-last-stone-weight](https://github.com/imaman2001/LeetCode/tree/master/1127-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imaman2001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imaman2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/imaman2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/imaman2001/LeetCode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/imaman2001/LeetCode/tree/master/0890-lemonade-change) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imaman2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/imaman2001/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imaman2001/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/imaman2001/LeetCode/tree/master/1127-last-stone-weight) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imaman2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imaman2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Tree
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imaman2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imaman2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
