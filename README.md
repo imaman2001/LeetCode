@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/imaman2001/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3396-valid-word](https://github.com/imaman2001/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/imaman2001/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/imaman2001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
