@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/imaman2001/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/imaman2001/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/imaman2001/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/imaman2001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/imaman2001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imaman2001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/imaman2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/imaman2001/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/imaman2001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0733-flood-fill](https://github.com/imaman2001/LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/imaman2001/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/imaman2001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/imaman2001/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/imaman2001/LeetCode/tree/master/2048-build-array-from-permutation) |
