@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/imaman2001/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/imaman2001/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/imaman2001/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/imaman2001/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/imaman2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/imaman2001/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/imaman2001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/imaman2001/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/imaman2001/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/imaman2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/imaman2001/LeetCode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/imaman2001/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -514,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/imaman2001/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/imaman2001/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
