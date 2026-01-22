@@ -8,6 +8,7 @@
  */
 class Solution {
 public:
+// Optimal approach using Hare / Tortoise Algorithms
     bool hasCycle(ListNode *head) {
 
         ListNode* slow = head;
@@ -27,4 +28,24 @@ public:
         }
         return false;
     }
+    
+
+// Brute Force
+    // bool hasCycle(ListNode *head){
+    //     unordered_map<ListNode*, int>mpp;
+    //     ListNode* temp = head;
+
+    //     while(temp != nullptr){
+    //         // if node match with mid
+    //         if(mpp.find(temp) != mpp.end()){
+    //             return true;
+    //         }
+    //         //visited
+    //         mpp[temp] = 1;
+
+    //         //traverse
+    //         temp = temp->next;
+    //     }
+    //     return false;
+    // }
 };
