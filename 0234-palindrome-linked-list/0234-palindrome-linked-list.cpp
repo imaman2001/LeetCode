@@ -20,31 +20,73 @@ public:
         return true;
     }
 
-    bool isPalindrome(ListNode* head) {
-        // vector<int>s;
-        // while(head){
-        //     s.push_back(head->val);
-        //     head = head->next;
-        // }
-        // int left = 0 , right = s.size()-1;
-        // while(left < right && s[left] == s[right]){
-        //     left++;
-        //     right--;
-        // }
-        // return left >= right;
+    ListNode* reverseLL(ListNode* head){
+        if(head == NULL || head->next == NULL){
+            return head;
+        }
+        ListNode* prev = NULL;
+
+        ListNode* newNode = reverseLL(head->next);
+        ListNode* front = head->next;
+        front->next = head;
+        head->next = prev;
+
+        return newNode;
+    }
+
+    // bool isPalindrome(ListNode* head) {
+    //     // vector<int>s;
+    //     // while(head){
+    //     //     s.push_back(head->val);
+    //     //     head = head->next;
+    //     // }
+    //     // int left = 0 , right = s.size()-1;
+    //     // while(left < right && s[left] == s[right]){
+    //     //     left++;
+    //     //     right--;
+    //     // }
+    //     // return left >= right;
 
 
-        stack<int>s;
-        ListNode* curr = head;
-        while(curr){
-            s.push(curr->val);
-            curr = curr->next;
+    //     // stack<int> st;
+    //     // ListNode* temp = head;
+    //     // while(temp != NULL){
+    //     //     st.push(temp->val);
+    //     //     temp = temp->next;
+    //     // }
+    //     // temp = head;
+    //     // while(temp != NULL){
+    //     //     if(st.top() != temp->val){
+    //     //         return false;
+    //     //     }
+    //     //     st.pop();
+    //     //     temp = temp->next;
+    //     // }
+    //     // return true;
+    // }
+
+    bool isPalindrome(ListNode* head){
+        if(head == NULL || head->next == NULL) return true;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast->next != NULL && fast->next->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        curr = head;
-        while(curr && curr->val == s.top()){
-            s.pop();
-            curr = curr->next;
+        ListNode* newHead = reverseLL(slow->next);
+        ListNode* firstHead = head;
+        ListNode* secondHead = newHead;
+
+        while(secondHead != NULL){
+            // compare first and second half
+            if(firstHead->val != secondHead->val){
+                return false;
+            }
+            firstHead = firstHead->next;
+            secondHead = secondHead->next;
         }
-        return curr == nullptr;
+        reverseLL(newHead);
+        return true;
     }
 };
