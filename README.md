@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/imaman2001/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/imaman2001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/imaman2001/LeetCode/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/imaman2001/LeetCode/tree/master/0605-can-place-flowers) |
