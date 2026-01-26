@@ -1,25 +1,31 @@
+#include<unordered_set>
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-        // int k=1;
-        // for(int i=1; i<nums.size(); i++){
-        //     if(nums[i] != nums[i-1]){
-        //     nums[k] = nums[i];
-        //     k++;
-        //     }
-        // }
-        // return k;
+        // TC: O(n) , SC: O(1)
 
-        //////// TC: O(n) , SC: O(1)
-        int i=0;
-        for(int j=1; j<nums.size(); j++){
-            if(nums[i] < nums[j]){
-                int temp = nums[i+1];
-                nums[i+1] = nums[j];
-                nums[j] = temp;
-                i++;
+    int removeDuplicates(vector<int>& nums) {  
+        int idx = 0;
+        for(int i=1; i<nums.size(); i++){
+            if(nums[idx] < nums[i]){
+                int temp = nums[idx+1];
+                nums[idx+1] = nums[i];
+                nums[i] = temp;
+                idx++;
             }
         }
-        return i+1;
+        return idx+1;
     }
+
+    // int removeDuplicates(vector<int>& nums){
+    //     unordered_set<int> seen;
+    //     int idx = 0;
+    //     for(int num : nums){
+    //         if(seen.find() == seen.end()){
+    //             seen.insert(num);
+    //             nums[idx] = num;
+    //             idx++;
+    //         }
+    //     }
+    //     return idx;
+    // }
 };
