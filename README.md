@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0983-validate-stack-sequences](https://github.com/imaman2001/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1127-last-stone-weight](https://github.com/imaman2001/LeetCode/tree/master/1127-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/imaman2001/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imaman2001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imaman2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/imaman2001/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1200-minimum-absolute-difference](https://github.com/imaman2001/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imaman2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
