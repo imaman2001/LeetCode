@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/imaman2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/imaman2001/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/imaman2001/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/imaman2001/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/imaman2001/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/imaman2001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/imaman2001/LeetCode/tree/master/0054-spiral-matrix) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imaman2001/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/imaman2001/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/imaman2001/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/imaman2001/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/imaman2001/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/imaman2001/LeetCode/tree/master/0086-partition-list) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/imaman2001/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/imaman2001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/imaman2001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/imaman2001/LeetCode/tree/master/0062-unique-paths) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imaman2001/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/imaman2001/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -554,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/imaman2001/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/imaman2001/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
