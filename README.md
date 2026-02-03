@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/imaman2001/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/imaman2001/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-coupon-code-validator](https://github.com/imaman2001/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3637-trionic-array-i](https://github.com/imaman2001/LeetCode/tree/master/3637-trionic-array-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/imaman2001/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/imaman2001/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/imaman2001/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
