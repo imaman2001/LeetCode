@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/imaman2001/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/imaman2001/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/imaman2001/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/imaman2001/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/imaman2001/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/imaman2001/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/imaman2001/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/imaman2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/imaman2001/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/imaman2001/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/imaman2001/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/imaman2001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imaman2001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/imaman2001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/imaman2001/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/imaman2001/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/imaman2001/LeetCode/tree/master/0455-assign-cookies) |
