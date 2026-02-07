@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/imaman2001/LeetCode/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/imaman2001/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/imaman2001/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/imaman2001/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/imaman2001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/imaman2001/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/imaman2001/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/imaman2001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imaman2001/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/imaman2001/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0983-validate-stack-sequences](https://github.com/imaman2001/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
 |  |
