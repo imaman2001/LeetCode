@@ -3,25 +3,25 @@ private:
     std::queue<int>q;
 public:
     MyStack() {
-
     }
     
     void push(int x) {
         q.push(x);
-        for(int i=0; i<q.size() - 1; i++){
-            q.push(q.front());
+
+        for(int i=0; i<q.size()-1; i++){
+            int val = q.front();
             q.pop();
+            q.push(val);
         }
     }
     
     int pop() {
-        int top = q.front();
+        int val = q.front();
         q.pop();
-        return top;
+        return val;
     } 
     
     int top() {
-
         return q.front();
     }
     
