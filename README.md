@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/imaman2001/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/imaman2001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/imaman2001/LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/imaman2001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/imaman2001/LeetCode/tree/master/0605-can-place-flowers) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imaman2001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/imaman2001/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/imaman2001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/imaman2001/LeetCode/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/imaman2001/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/imaman2001/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/imaman2001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0983-validate-stack-sequences](https://github.com/imaman2001/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/imaman2001/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/imaman2001/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Quickselect
 |  |
 | ------- |
