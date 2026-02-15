@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/imaman2001/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/imaman2001/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/imaman2001/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/imaman2001/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/imaman2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/imaman2001/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/imaman2001/LeetCode/tree/master/0189-rotate-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/imaman2001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/imaman2001/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/imaman2001/LeetCode/tree/master/0067-add-binary) |
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0983-validate-stack-sequences](https://github.com/imaman2001/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/imaman2001/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/imaman2001/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/imaman2001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/imaman2001/LeetCode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/imaman2001/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/imaman2001/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/imaman2001/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/imaman2001/LeetCode/tree/master/0179-largest-number) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/imaman2001/LeetCode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/imaman2001/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
