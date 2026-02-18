@@ -6,11 +6,12 @@ public:
         if(s.size() != goal.size()) return false;
         if(s == goal) return true;
 
-        for(int i=0; i<s.size(); i++){
-            string rotated = s.substr(i, s.size()-1) + s.substr(0, i);
+        // for(int i=0; i<s.size(); i++){
+        //     // string rotated = s.substr(i, s.size()-1) + s.substr(0, i);
+        //     // if(rotated == goal) return true;
 
-            if(rotated == goal) return true;
-        }
-        return false;
+        // }
+        string doubleS = s+s;
+        return doubleS.find(goal) != string::npos;
     }
 };
