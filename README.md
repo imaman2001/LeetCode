@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/imaman2001/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/imaman2001/LeetCode/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0796-rotate-string](https://github.com/imaman2001/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/imaman2001/LeetCode/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/imaman2001/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/imaman2001/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/imaman2001/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/imaman2001/LeetCode/tree/master/0812-rotate-string) |
 ## Queue
 |  |
