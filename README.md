@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/imaman2001/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/imaman2001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imaman2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/imaman2001/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/imaman2001/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/imaman2001/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/imaman2001/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/imaman2001/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/imaman2001/LeetCode/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/imaman2001/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/imaman2001/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imaman2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
