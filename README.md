@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/imaman2001/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/imaman2001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imaman2001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/imaman2001/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/imaman2001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/imaman2001/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/imaman2001/LeetCode/tree/master/0072-edit-distance) |
