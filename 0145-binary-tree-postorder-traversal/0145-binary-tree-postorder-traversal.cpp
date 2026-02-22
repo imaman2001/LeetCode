@@ -10,14 +10,23 @@
  * };
  */
 class Solution {
+private: 
+    void postOrder(TreeNode* root, vector<int>& res){
+        if(!root) return;
+        postOrder(root->left , res);
+        postOrder(root->right, res);
+        res.push_back(root->val);
+    }
 public:
-    vector<int> num = {};
+    // vector<int> num = {};
     vector<int> postorderTraversal(TreeNode* root) {
-        if(root == nullptr) return num;
+        // if(root == nullptr) return num;
 
-        postorderTraversal(root->left);
-        postorderTraversal(root->right);
-        num.push_back(root->val);
-        return num;
+        // postorderTraversal(root->left);
+        // postorderTraversal(root->right);
+        // num.push_back(root->val);
+        vector<int> res;
+        postOrder(root, res);
+        return res;
     }
 };
