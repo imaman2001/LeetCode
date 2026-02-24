@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/imaman2001/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Design
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/imaman2001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/imaman2001/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Data Stream
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/imaman2001/LeetCode/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/imaman2001/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/imaman2001/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/imaman2001/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imaman2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/imaman2001/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/imaman2001/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Linked List
@@ -595,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/imaman2001/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imaman2001/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imaman2001/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/imaman2001/LeetCode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Monotonic Queue
