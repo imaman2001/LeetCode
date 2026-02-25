@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/imaman2001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/imaman2001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/imaman2001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/imaman2001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imaman2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/imaman2001/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/imaman2001/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imaman2001/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/imaman2001/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/imaman2001/LeetCode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/imaman2001/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imaman2001/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/imaman2001/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/imaman2001/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imaman2001/LeetCode/tree/master/0801-is-graph-bipartite) |
