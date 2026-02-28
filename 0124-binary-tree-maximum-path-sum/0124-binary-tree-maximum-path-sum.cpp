@@ -26,7 +26,6 @@ public:
     int maxPathSum(TreeNode* root) {
         int res = INT_MIN;
         height(root, res);
-
         return res;
     }
 };
