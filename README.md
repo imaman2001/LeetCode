@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/imaman2001/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/imaman2001/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/imaman2001/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/imaman2001/LeetCode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/imaman2001/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imaman2001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/imaman2001/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/imaman2001/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/imaman2001/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/imaman2001/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/imaman2001/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Linked List
 |  |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/imaman2001/LeetCode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/imaman2001/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/imaman2001/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1020-number-of-enclaves](https://github.com/imaman2001/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Monotonic Stack
 |  |
 | ------- |
