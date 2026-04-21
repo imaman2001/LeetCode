@@ -47,7 +47,7 @@ public:
             }
 
             mpp[s[right]] = right;
-            maxLen = max(maxLen , right-left+1);
+            maxLen = max(maxLen , right-left+1); // 3
             right++;
         }
         return maxLen;
