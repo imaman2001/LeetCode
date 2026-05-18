@@ -15,7 +15,8 @@ public:
             if(nums[mid] != nums[mid+1] && nums[mid] != nums[mid-1]) return nums[mid];
 
             // this condition lies is the right half
-            if((mid%2 == 0) && nums[mid] == nums[mid+1] || (mid%2 != 0) && nums[mid] == nums[mid-1]){
+            if((mid%2 == 0) && nums[mid] == nums[mid+1] 
+            || (mid%2 != 0) && nums[mid] == nums[mid-1]){
                 low = mid+1;
             } else{
                 high = mid-1;
