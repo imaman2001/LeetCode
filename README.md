@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/imaman2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/imaman2001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/imaman2001/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/imaman2001/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imaman2001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/imaman2001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/imaman2001/LeetCode/tree/master/0090-subsets-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/imaman2001/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/imaman2001/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/imaman2001/LeetCode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/imaman2001/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/imaman2001/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/imaman2001/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Tree
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/imaman2001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/imaman2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/imaman2001/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/imaman2001/LeetCode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/imaman2001/LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/imaman2001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/imaman2001/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/imaman2001/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/imaman2001/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/imaman2001/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/imaman2001/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/imaman2001/LeetCode/tree/master/0179-largest-number) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/imaman2001/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/imaman2001/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/imaman2001/LeetCode/tree/master/0101-symmetric-tree) |
