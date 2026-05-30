@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/imaman2001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/imaman2001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/imaman2001/LeetCode/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/imaman2001/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/imaman2001/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0983-validate-stack-sequences](https://github.com/imaman2001/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/imaman2001/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/imaman2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0796-rotate-string](https://github.com/imaman2001/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/imaman2001/LeetCode/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/imaman2001/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/imaman2001/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/imaman2001/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/imaman2001/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/imaman2001/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imaman2001/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/imaman2001/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/imaman2001/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imaman2001/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/imaman2001/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/imaman2001/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/imaman2001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/imaman2001/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/imaman2001/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imaman2001/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/imaman2001/LeetCode/tree/master/1021-remove-outermost-parentheses) |
