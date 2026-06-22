@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/imaman2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imaman2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imaman2001/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/imaman2001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaman2001/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/imaman2001/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/imaman2001/LeetCode/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/imaman2001/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/imaman2001/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/imaman2001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/imaman2001/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/imaman2001/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/imaman2001/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/imaman2001/LeetCode/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/imaman2001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/imaman2001/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
