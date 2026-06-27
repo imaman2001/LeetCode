@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
+    int maxSubArray(vector<int>& arr) {
         // Brute Force Approach
         // int max = INT_MIN;
         // int n = nums.size();
@@ -22,21 +22,37 @@ public:
 
 
         //................ Optiomal solution
+        // int sum = 0;
+        // int maxi = INT_MIN;
+
+        // for(int i=0; i<nums.size(); i++){
+        //     sum = sum + nums[i];
+
+        //     if(sum > maxi){
+        //         maxi = sum;
+        //     }
+
+        //     if(sum < 0){
+        //         sum = 0;
+        //     }
+        // }
+
+        // return maxi;
+
+        // if(arr.size() == 1) return arr[0];
+        int maxSum = INT_MIN;
         int sum = 0;
-        int maxi = INT_MIN;
+        for(int i=0; i<arr.size(); i++){
+            sum += arr[i];
 
-        for(int i=0; i<nums.size(); i++){
-            sum = sum + nums[i];
-
-            if(sum > maxi){
-                maxi = sum;
+            if(maxSum < sum){
+                maxSum = sum;
             }
 
             if(sum < 0){
                 sum = 0;
             }
         }
-
-        return maxi;
+        return maxSum;
     }
 };
