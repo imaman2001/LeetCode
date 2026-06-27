@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) { // [7,1,5,3,6,4]
+    int maxProfit(vector<int>& arr) { // [7,1,5,3,6,4]
         // int buy = prices[0];  // 7
         // int profit = 0;
         // for(int i=1; i<prices.size(); i++){
@@ -11,16 +11,32 @@ public:
         // } 
         // return profit;
 
-        int low = prices[0];
-        int maxProfit = 0;
-        for(int i=1; i<prices.size(); i++){
-            if(low > prices[i]){
-                low = prices[i];
+        // int low = prices[0];
+        // int maxProfit = 0;
+        // for(int i=1; i<prices.size(); i++){
+        //     if(low > prices[i]){
+        //         low = prices[i];
+        //     }
+        //     int profit = prices[i] - low;
+        //     maxProfit = max(maxProfit , profit);
+        // }
+
+        // return maxProfit;
+
+        int profit = 0;
+        int buy = arr[0];
+        
+        for(int i=1; i<arr.size(); i++){
+            // if buy is  greater than current 
+            // buy minimum and profit maximum
+            if(buy > arr[i]){
+                buy = arr[i];
             }
-            int profit = prices[i] - low;
-            maxProfit = max(maxProfit , profit);
+            // calculate profit
+            profit = max(profit, arr[i] - buy);
         }
 
-        return maxProfit;
+        return profit;
+
     }
 };
