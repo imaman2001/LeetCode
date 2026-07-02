@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/imaman2001/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/imaman2001/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/imaman2001/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/imaman2001/LeetCode/tree/master/0338-counting-bits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imaman2001/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/imaman2001/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imaman2001/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/imaman2001/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/imaman2001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imaman2001/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/imaman2001/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/imaman2001/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/imaman2001/LeetCode/tree/master/0645-set-mismatch) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imaman2001/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
