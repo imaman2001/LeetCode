@@ -9,20 +9,17 @@
 class Solution {
 public:
 // Optimal approach using Hare / Tortoise Algorithms
-    bool hasCycle(ListNode *head) {
-
+    bool hasCycle(ListNode *head) { 
         ListNode* slow = head;
         ListNode* fast = head;
 
-        if(head == NULL || head->next == NULL){
-            return false;
-        }
+        if(head == NULL || head->next == NULL) return false;
 
         while(fast != NULL && fast->next != NULL){
             slow = slow->next;
             fast = fast->next->next;
 
-            if(fast == slow){
+            if(slow == fast){
                 return true;
             }
         }
