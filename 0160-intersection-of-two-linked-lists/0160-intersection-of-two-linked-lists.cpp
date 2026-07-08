@@ -22,13 +22,15 @@ public:
     // }
 
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB){
-        ListNode* d1 = headA;
-        ListNode* d2 = headB;
+        ListNode* l1 = headA;
+        ListNode* l2 = headB;
 
-        while(d1 != d2){
-            d1 = d1 == NULL ? headB : d1->next;
-            d2 = d2 == NULL ? headA : d2->next;
+        while(l1 != l2){
+            l1 = l1 == NULL ? headB : l1->next;
+            l2 = l2 == NULL ? headA : l2->next;
         }
-        return d1;
+
+        // where l1 == l2
+        return l1;
     }
 };
