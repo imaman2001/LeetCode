@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imaman2001/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/imaman2001/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/imaman2001/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/imaman2001/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imaman2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/imaman2001/LeetCode/tree/master/3321-type-of-triangle) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/imaman2001/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imaman2001/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imaman2001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/imaman2001/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imaman2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaman2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/imaman2001/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/imaman2001/LeetCode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/imaman2001/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/imaman2001/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2965-find-missing-and-repeated-values](https://github.com/imaman2001/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/imaman2001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imaman2001/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Matrix
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/imaman2001/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/imaman2001/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/imaman2001/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/imaman2001/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
